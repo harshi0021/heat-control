@@ -81,9 +81,9 @@ lib_deps =
 
 ### Simulation Link
 ```
-https://wokwi.com/projects/[PROJECT_ID]
+(https://wokwi.com/projects/437083566515142657)
 ```
-*(Replace [PROJECT_ID] with your actual Wokwi project ID)*
+
 
 ## 🏃‍♂️ Getting Started
 
